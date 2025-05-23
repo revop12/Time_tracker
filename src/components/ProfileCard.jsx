@@ -5,7 +5,7 @@ const ProfileCard = ({ active, setActive, options }) => {
         <div className="sm:ml-7 flex items-center">
           <div className="p-[3px] bg-gradient-to-tr to-yellow-600 from-purple-400 rounded-full">
             <img
-              src="./src/assets/image-jeremy.png"
+              src="/assets/image-jeremy.png"
               alt="Jeremy"
               className="bg-white rounded-full w-[70px] sm:w-[80px]"
             />

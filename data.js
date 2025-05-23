@@ -2,7 +2,7 @@ const datas = [
   {
     "title": "Work",
     "color": "bg-gradient-to-r from-orange-200 to-orange-400",
-    "imageLocation": "./src/assets/icon-work.svg",
+    "imageLocation": "/assets/icon-work.svg",
     "timeframes": {
       "Daily": {
         "current": 5,
@@ -21,7 +21,7 @@ const datas = [
   {
     "title": "Play",
     "color": "bg-gradient-to-r from-sky-200 to-sky-400",
-    "imageLocation": "./src/assets/icon-play.svg",
+    "imageLocation": "/assets/icon-play.svg",
     "timeframes": {
       "Daily": {
         "current": 1,
@@ -40,7 +40,7 @@ const datas = [
   {
     "title": "Study",
     "color": "bg-gradient-to-r from-pink-200 to-pink-400",
-    "imageLocation": "./src/assets/icon-study.svg",
+    "imageLocation": "/assets/icon-study.svg",
     "timeframes": {
       "Daily": {
         "current": 0,
@@ -59,7 +59,7 @@ const datas = [
   {
     "title": "Exercise",
     "color": "bg-gradient-to-r from-emerald-200 to-emerald-400",
-    "imageLocation": "./src/assets/icon-exercise.svg",
+    "imageLocation": "/assets/icon-exercise.svg",
     "timeframes": {
       "Daily": {
         "current": 1,
@@ -78,7 +78,7 @@ const datas = [
   {
     "title": "Social",
     "color": "bg-gradient-to-r from-purple-200 to-purple-400",
-    "imageLocation": "./src/assets/icon-social.svg",
+    "imageLocation": "/assets/icon-social.svg",
     "timeframes": {
       "Daily": {
         "current": 1,
@@ -97,7 +97,7 @@ const datas = [
   {
     "title": "Self Care",
     "color": "bg-gradient-to-r from-yellow-200 to-yellow-400",
-    "imageLocation": "./src/assets/icon-self-care.svg",
+    "imageLocation": "/assets/icon-self-care.svg",
     "timeframes": {
       "Daily": {
         "current": 0,

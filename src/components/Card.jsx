@@ -20,7 +20,7 @@ const Card = ({ title, color, timeframes, active, imageLocation }) => {
             className="hover:cursor-pointer scale-130 border-1 p-2 rounded-3xl hover:bg-purple-50 hover:border-purple-700 transition-all duration-300 ease-in-out relative"
             onClick={() => setShowDropdown((prev) => !prev)}
           >
-            <img src="./src/assets/icon-ellipsis.svg" alt="Menu" />
+            <img src="/assets/icon-ellipsis.svg" alt="Menu" />
             {showDropdown && (
               <div className="absolute right-0 mt-2 w-28 bg-transparent backdrop-blur-sm rounded-2xl shadow-lg z-10">
                 <ul className="p-2 flex sm:flex-col text-sm">
